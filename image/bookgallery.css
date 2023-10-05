@@ -1,0 +1,42 @@
+.col{
+    margin-top: 59px;
+    height: 590px;
+    width: 18%;
+    border: 13px rgba(255, 255, 255, 0) solid;
+    float: left;
+    background-color: rgba(254, 253, 253, 0.568);
+    
+}
+H1{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(255, 253, 253);
+    font-style: italic;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+h2{
+    color: rgb(71, 42, 42);
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+    color: rgb(22, 12, 12);
+    text-justify: ;
+}
+button{
+    margin-left: 130px;
+    text-align: center;
+    color: white;
+    background-color: brown;
+
+}
+body{
+    background-image: url(./image/bgbb.webp);
+    background-size: cover;
+}

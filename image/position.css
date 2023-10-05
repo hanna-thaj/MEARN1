@@ -1,0 +1,14 @@
+#col1{
+    width: 25%;
+    height: 400px; 
+    background-color: darkslategray;
+   position: relative;
+
+}
+#col2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(29, 32, 32);
+    position: absolute;
+    left: 50%;
+}

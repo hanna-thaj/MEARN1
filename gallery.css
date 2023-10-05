@@ -1,0 +1,46 @@
+.col {
+    height: 608px;
+    width: 18%;
+    border: rgb(255, 255, 255) 8px solid;
+    background-color: rgb(25, 45, 45);
+    float: left;
+    color: rgb(183, 139, 82);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+.col:hover {
+    background-color: rgb(184, 214, 184);
+    color: green;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+img {
+    width: 100%;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding: 25px;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: blueviolet;
+    color: white;
+
+}
+
+button:hover {
+    background-color: rgb(127, 111, 143);
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
